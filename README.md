@@ -82,6 +82,4 @@
 
 ------
 
-Credit: [trantien007](https://github.com/trantien007)
-
 Last Edited on: 06/01/2023
